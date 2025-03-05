@@ -6,7 +6,7 @@
 
 🇧🇷 Se você entrar no site, verá que essa é a versão com JS. Isso é porque visualmente, nada é mudado, só o código foi modificado.
 
-<h1>ENGLISH VERSION</h1>
+<h1>🇺🇸 ENGLISH VERSION</h1>
 ⚛ This is my first project built with React (I used JS). I converted it from JavaScript to TypeScript. It's a simple project, mainly for learning purposes.
 
 
@@ -45,7 +45,7 @@ http://localhost:3000
 
 
 
-<h1>VERSÃO EM PT-BR</h1>
+<h1>🇧🇷 VERSÃO EM PT-BR</h1>
 ⚛ Este foi meu primeiro projeto usando React (eu usei JS). Eu peguei ele e transformei de JavaScript para TypeScript. Este projeto é bem simples, só para aprendizado.
 
 
